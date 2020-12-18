@@ -13,8 +13,8 @@ public class Demo2 {
 	public void div(int a,int b) {
 		System.out.println("Div:"+(a*b));
 	}
-	public void output(int a,int b) {
-		System.out.println("Output is here....");
+	public void result(int a,int b) {
+		System.out.println("Res:");
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
