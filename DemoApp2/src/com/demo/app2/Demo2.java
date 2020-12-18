@@ -10,8 +10,9 @@ public class Demo2 {
 	public void mul(int a,int b) {
 		System.out.println("Mul:"+(a*b));
 	}
-	
-
+	public void div(int a,int b) {
+		System.out.println("Div:"+(a*b));
+	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Demo 2...");
